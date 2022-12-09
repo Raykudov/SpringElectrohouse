@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.mateu:prelombok:1.18.11.96">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/mateu/prelombok/1.18.11.96/prelombok-1.18.11.96.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/mateu/prelombok/1.18.11.96/prelombok-1.18.11.96-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/mateu/prelombok/1.18.11.96/prelombok-1.18.11.96-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
